@@ -1,0 +1,10 @@
+const HealthAction = {
+  HP_HISTORY_S: 'HP_HISTORY_S',
+  HP_HISTORY_R: 'HP_HISTORY_R',
+  BUY_HISTORY_S: 'BUY_HISTORY_S',
+  BUY_HISTORY_R: 'BUY_HISTORY_R',
+  USE_REWARD_S: 'USE_REWARD_S',
+  USE_REWARD_R: 'USE_REWARD_R',
+}
+
+export default HealthAction;

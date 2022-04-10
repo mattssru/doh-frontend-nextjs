@@ -1,0 +1,16 @@
+export { default as IconReport } from "./IconReport";
+export { default as IconUser } from "./IconUser";
+export { default as IconUserAdd } from "./IconUserAdd";
+export { default as IconCupSmall } from "./IconCupSmall";
+export { default as IconMenu } from "./IconMenu";
+export { default as IconMedel } from "./IconMedel";
+export { default as IconCupmd } from "./IconCupmd";
+export { default as IconTest } from "./IconTest";
+export { default as Iconviewmore } from "./Iconviewmore";
+export { default as IconSearch } from "./IconSearch";
+export { default as IconPlus } from "./IconPlus";
+export { default as IconAdd } from "./IconAdd";
+export { default as IconAddGroup } from "./IconAddGroup";
+export { default as IconDelete } from "./IconDelete";
+export { default as IconUpload } from "./IconUpload";
+export { default as IconUserMinus } from "./IconUserMinus";

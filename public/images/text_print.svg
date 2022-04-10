@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="686.772" height="234.5" viewBox="0 0 686.772 234.5">
+  <defs>
+    <filter id="พิชิต" x="0" y="7" width="244" height="215.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_100" x="245.455" y="0" width="225" height="234.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="วัน" x="483.425" y="49.912" width="59" height="78.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="แต้มสุขภาพ" x="482.772" y="103.624" width="204" height="79.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_27273" data-name="Group 27273" transform="translate(-210.575 12)">
+    <g transform="matrix(1, 0, 0, 1, 210.58, -12)" filter="url(#พิชิต)">
+      <text id="พิชิต-2" data-name="พิชิต" transform="translate(6.5 152)" fill="#449ae3" stroke="#fff" stroke-width="5" font-size="168" font-family="DBHeavent-MedIt, DB Heavent" font-style="italic"><tspan x="0" y="0">พิชิต</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 210.58, -12)" filter="url(#_100)">
+      <text id="_100-2" data-name="100" transform="translate(251.96 158)" fill="#ffca3d" stroke="#fff" stroke-width="5" font-size="184" font-family="DBHeavent-BoldIt, DB Heavent" font-weight="700" font-style="italic"><tspan x="0" y="0">100</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 210.58, -12)" filter="url(#วัน)">
+      <text id="วัน-2" data-name="วัน" transform="translate(489.92 99.91)" fill="#449ae3" stroke="#fff" stroke-width="5" font-size="54" font-family="DBHeavent-BoldIt, DB Heavent" font-weight="700" font-style="italic"><tspan x="0" y="0">วัน</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 210.58, -12)" filter="url(#แต้มสุขภาพ)">
+      <text id="แต้มสุขภาพ-2" data-name="แต้มสุขภาพ" transform="translate(490.27 154.62)" fill="#449ae3" stroke="#fff" stroke-width="5" font-size="55" font-family="DBHeavent-BoldIt, DB Heavent" font-weight="700" font-style="italic"><tspan x="0" y="0">แต้มสุขภาพ</tspan></text>
+    </g>
+    <g id="Group_27272" data-name="Group 27272">
+      <text id="พิชิต-3" data-name="พิชิต" transform="translate(217.075 140)" fill="#449ae3" font-size="168" font-family="DBHeavent-MedIt, DB Heavent" font-style="italic"><tspan x="0" y="0">พิชิต</tspan></text>
+      <text id="วัน-3" data-name="วัน" transform="translate(700.5 87.912)" fill="#449ae3" font-size="54" font-family="DBHeavent-BoldIt, DB Heavent" font-weight="700" font-style="italic"><tspan x="0" y="0">วัน</tspan></text>
+      <text id="แต้มสุขภาพ-3" data-name="แต้มสุขภาพ" transform="translate(700.848 142.624)" fill="#449ae3" font-size="55" font-family="DBHeavent-BoldIt, DB Heavent" font-weight="700" font-style="italic"><tspan x="0" y="0">แต้มสุขภาพ</tspan></text>
+      <text id="_100-3" data-name="100" transform="translate(462.53 146)" fill="#ffca3d" font-size="184" font-family="DBHeavent-BoldIt, DB Heavent" font-weight="700" font-style="italic"><tspan x="0" y="0">100</tspan></text>
+    </g>
+  </g>
+</svg>
